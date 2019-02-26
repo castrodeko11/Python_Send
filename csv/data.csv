@@ -1,0 +1,29 @@
+Request No;N° Cliente;Descrição;Closed On;Coluna1;Prioridade;Tipo de chamado;Módulo;Data de abertura do chamado;Site Survey (Resposta);e-mail usuário;Link Pesquisa
+3265075;INC2255494;PPRLO01 - INC2255494 - Fornecedor bloqueado no sap;05/02/2019;05/fev/19;Media;Suporte;MM;04/02/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3012559;INC2018548;PPRLO01 - INC2018548 - Inclusão de Texto Item em massa;29/01/2019;29/jan/19;Media;Melhoria;SD;20/09/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3196053;INC2181839;PPRLO01 - INC2181839 - Acesso transação ZMM044;16/01/2019;16/jan/19;Media;Perfis;Basis;20/12/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3222515;INC2183699;PPRLO01 - INC2183699 - CLAR041 - REMANEJAMENTO;17/01/2019;17/jan/19;Media;Erro;MM;10/01/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3227734;INC2211610;PPRLO01 - INC2211610 - Criação de perfil simples e atribuição em composto.;05/02/2019;05/fev/19;Alta;Perfis;Basis;11/01/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3265072;INC2250523;PPRLO01 - INC2250523 - Exclusão de RQ;05/02/2019;05/fev/19;Baixa;Suporte;PS;04/02/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3109827;INC2100300;PPRLO01 - INC2100300 - Duplicação de Lançamento - Emp 0052;16/01/2019;16/jan/19;Media;Suporte;FI;07/11/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3244729;INC2233834;PPRLO01 - INC2233834 - Estoque em PEP;24/01/2019;24/jan/19;Media;Suporte;PS;23/01/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3202384;INC2193154;PPRLO01 - INC2193154 - Grupo de Compradores SAP;21/01/2019;21/jan/19;Media;Manutenção;MM;28/12/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3253239;INC2218889;PPRLO01 - INC2218889 - Nota de crédito 119926-1;30/01/2019;30/jan/19;Media;Suporte;MM;25/01/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3026502;INC2033572;PPRLO01 - INC2033572 - Número de Série Baixa Transação ZREMAN;29/01/2019;29/jan/19;Media;Manutenção;MM;28/09/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3268671;INC2259229;PPRLO01 - INC2259229 - Abertura de novas contas - Banco Votorantim;19/02/2019;19/fev/19;Media;Manutenção;FI;06/02/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3068437;INC2049251;PPRLO01 - INC2049251 - Erro SAP -  tipo de moeda;23/01/2019;23/jan/19;Media;Manutenção;FI;09/10/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3001906;INC1999596;PPRLO01 - INC1999596 - INSS na entrada da Fatura para abatimento da folha;07/02/2019;07/fev/19;Media;Melhoria;SD;11/09/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3222527;INC2129755;PPRLO01 - INC2129755 - Levantamento de Serial Number;29/01/2019;29/jan/19;Baixa;Suporte;PS;10/01/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3107445;INC2098198;PPRLO01 - INC2098198 - Alteração transação SAP - ZTPS015 e ZTPS016;12/02/2019;12/fev/19;Media;Manutenção;PS;06/11/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3197193;INC2185143;PPRLO01 - INC2185143 - Otimização da J1BTAX  - Origens 1, 2, 3 e 8 - 4%;24/01/2019;24/jan/19;Media;Manutenção;SD;21/12/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3241965;INC2231427;PPRLO01 - INC2231427 - Abertura de informações no arquivo SPED PIS-COFINS;30/01/2019;30/jan/19;Media;Suporte;MM;22/01/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3237559;INC2213230;PPRLO01 - INC2213230 - Criação de 2 IVAS de frete;31/01/2019;31/jan/19;Alta;Manutenção;MM;21/01/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3200517;INC2192817;PPRLO01 - INC2192817 - Cadastro de Cliente internacional;01/02/2019;01/fev/19;Baixa;Manutenção;SD;27/12/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3202386;INC2192819;PPRLO01 - INC2192819 - Cadastro de Bi-tributação por fornecedor;19/02/2019;19/fev/19;Alta;Manutenção;MM;28/12/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3109828;INC2100474;PPRLO01 - INC2100474 - Análise Carteira - BI;16/01/2019;16/jan/19;Baixa;Suporte;PS;07/11/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3237337;INC2230049;PPRLO01 - INC2230049 - Acesso a transação;24/01/2019;24/jan/19;Media;Perfis;Basis;21/01/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3221128;INC2209482;PPRLO01 - INC2209482 - WF de liberação de Ordem de Venda em Duplicidade;14/02/2019;14/fev/19;Baixa;Suporte;WF;10/01/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3249788;INC2236252;"PPRLO01 - INC2236252 - Atualização das novas contas de PIS e COFINS no ""Relatório de Posições dos valores no CAR""";18/02/2019;18/fev/19;Alta;Manutenção;FI;24/01/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3209342;INC2151992;PPRLO01 - INC2151992 - CRIAR CÓDIGO DE COMPRADOR;31/01/2019;31/jan/19;Media;Manutenção;MM;04/01/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3200390;INC2192926;PPRLO01 - INC2192926 - Demanda com problema;01/02/2019;01/fev/19;Media;Manutenção;SD;27/12/2018;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
+3242382;INC2229746;PPRLO01 - INC2229746 - Nota Monitor;18/02/2019;18/fev/19;Alta;Suporte;SD;22/01/2019;Não;deko123456789@hotmail.com;https://www.la.logicalis.com/pt-Latam/
